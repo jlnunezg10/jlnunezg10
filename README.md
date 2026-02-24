@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Núñez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [AhorrApp](https://github.com/4GeeksAcademy/grupo4-proyecto-final-ahorapp)
+- 🔭 I’m currently working on [SAET](https://github.com/jlnunezg10/SAET/)
 
 - 🌱 I’m currently learning **Linux, AWS**
 
